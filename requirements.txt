@@ -6,7 +6,7 @@ Pillow
 pyrogram==2.0.69
 requests
 tgcrypto
-git+https://github.com/dlcvietnam/yt-dlp#egg=yt-dlp
+git+https://github.com/0xCP/yt-dlp#egg=yt-dlp
 yt-dlp
 olefile
 motor==2.5.1
